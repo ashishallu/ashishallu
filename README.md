@@ -1,19 +1,15 @@
 <div align="center">
 
-<!-- Hero banner — your uploaded ocean artwork, with name + tagline composited in, wave-cut at the bottom edge. Commit this file to /banner.png -->
 <img src="banner.png" width="100%"/>
 
 <br/><br/>
 
 <a href="https://github.com/ashishallu">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=0E7C7B&center=true&vCenter=true&width=650&lines=Final-Year+AI+%26+Data+Science+Engineer;Building+Explainable+%26+Responsible+AI;Healthcare+AI+%7C+Fraud+Detection+%7C+Deep-Tech;Open+to+AI%2FML+Internships+2026" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=0E7C7B&center=true&vCenter=true&width=650&lines=Final-Year+AI+%26+Data+Science+Engineer;AI%2FML+Engineer+%7C+Data+Scientist+%7C+SWE;Building+Explainable+%26+Responsible+AI;Open+to+AI%2FML+Internships+2026" alt="Typing SVG" />
 </a>
-
-<sub>↑ cycles through 4 phrases live on GitHub — a screenshot only ever catches one mid-type frame</sub>
 
 <br/><br/>
 
-<!-- Socials — tropical daylight palette -->
 <a href="https://v0-portfolio-ashishallu.vercel.app/" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=PORTFOLIO&color=1CA9A5&style=for-the-badge"/></a>
 <a href="https://github.com/ashishallu" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=GITHUB&color=14252E&style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/venkata-ashish-allu/" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=LINKEDIN&color=0A66C2&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -23,17 +19,14 @@
 
 <img src="divider-ocean-1.jpg" width="100%"/>
 
-<br/>
-
 ## About Me
 
-I engineer end-to-end AI systems that don't just predict — they explain themselves. Currently finishing my B.E. in Artificial Intelligence and Data Science at CBIT Hyderabad, I design and ship production-style pipelines across **healthcare diagnostics, fraud detection, and financial compliance**, using open-source stacks with zero paid dependencies.
+I'm an **AI/ML Engineer, Data Scientist, and Software Engineer** finishing my B.E. in Artificial Intelligence and Data Science at CBIT Hyderabad. I design and ship production-style systems — models that explain their own decisions, pipelines that hold up at scale, and APIs built the way a real engineering team would build them — using open-source stacks with zero paid dependencies.
 
-- 🔬 Architecting **explainable AI** systems (SHAP, LIME, Grad-CAM) for high-stakes domains
-- 🏥 Focused on **healthcare AI** — diagnostic imaging, clinical trial prediction, patient-data systems
-- 🌊 Building **graph-based fraud detection** at streaming scale (Kafka + PySpark + GNNs)
+- 🔬 Explainable AI systems (SHAP, LIME, Grad-CAM) for high-stakes, regulated domains
+- 🌊 Graph-based fraud detection at streaming scale (Kafka + PySpark + GNNs)
+- 🧠 Full-stack ML — from model training to FastAPI microservices and deployable APIs
 - 🏆 Best Use Case Award — SRM-AP Quantum Hackathon (Post-Quantum Cryptography)
-- 🎯 Targeting AI/ML roles in healthcare AI and deep-tech, and long-term: a PhD and a deep-tech startup
 
 <br/>
 
@@ -41,45 +34,17 @@ I engineer end-to-end AI systems that don't just predict — they explain themse
 
 <div align="center">
 
-**Languages & Core**
-<br/><br/>
-<img src="python.png" width="56" height="56"/>&nbsp;&nbsp;
-<img src="postgresql.png" width="56" height="56"/>
+**Languages & Core** &nbsp; <img src="python.png" width="42" height="42"/> <img src="postgresql.png" width="42" height="42"/>
 
-<br/><br/>
+**ML & Explainability** &nbsp; <img src="pytorch.png" width="42" height="42"/> <img src="xgboost.png" width="42" height="42"/> <img src="shap.png" width="42" height="42"/> <img src="lime.png" width="42" height="42"/> <img src="biobert.png" width="42" height="42"/> <img src="gradcam.png" width="42" height="42"/>
 
-**Machine Learning & Explainability**
-<br/><br/>
-<img src="pytorch.png" width="56" height="56"/>&nbsp;&nbsp;
-<img src="xgboost.png" width="56" height="56"/>&nbsp;&nbsp;
-<img src="shap.png" width="56" height="56"/>&nbsp;&nbsp;
-<img src="lime.png" width="56" height="56"/>&nbsp;&nbsp;
-<img src="biobert.png" width="56" height="56"/>&nbsp;&nbsp;
-<img src="gradcam.png" width="56" height="56"/>
+**Data & Streaming** &nbsp; <img src="apachekafka.png" width="42" height="42"/> <img src="apachespark.png" width="42" height="42"/> <img src="chromadb.png" width="42" height="42"/> <img src="ollama.png" width="42" height="42"/>
 
-<br/><br/>
-
-**Data Engineering & Streaming**
-<br/><br/>
-<img src="apachekafka.png" width="56" height="56"/>&nbsp;&nbsp;
-<img src="apachespark.png" width="56" height="56"/>&nbsp;&nbsp;
-<img src="chromadb.png" width="56" height="56"/>&nbsp;&nbsp;
-<img src="ollama.png" width="56" height="56"/>
-
-<br/><br/>
-
-**Apps & Infrastructure**
-<br/><br/>
-<img src="docker.png" width="56" height="56"/>&nbsp;&nbsp;
-<img src="git.png" width="56" height="56"/>&nbsp;&nbsp;
-<img src="github.png" width="56" height="56"/>&nbsp;&nbsp;
-<img src="streamlit.png" width="56" height="56"/>
+**Apps & Infra** &nbsp; <img src="docker.png" width="42" height="42"/> <img src="git.png" width="42" height="42"/> <img src="github.png" width="42" height="42"/> <img src="streamlit.png" width="42" height="42"/>
 
 </div>
 
 <img src="divider-ocean-2.jpg" width="100%"/>
-
-<br/>
 
 ## Featured Projects
 
@@ -122,44 +87,22 @@ Predicts patient dropout risk in clinical trials using CDASH-style synthetic dat
 </tr>
 </table>
 
-<div align="center">
-<a href="https://github.com/ashishallu?tab=repositories">
-<img src="https://img.shields.io/badge/View_All_Repositories-1CA9A5?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</div>
-
-<br/>
-
 <img src="divider-ocean-3.jpg" width="100%"/>
-
-<br/>
 
 ## Certifications
 
-<div align="center">
-
-<img src="https://img.shields.io/static/v1?label=&message=AWS+Certified+CloudOps+Engineer+Associate&color=1CA9A5&style=for-the-badge"/>
-<img src="https://img.shields.io/static/v1?label=&message=IBM+Enterprise+Data+Science&color=0E7C7B&style=for-the-badge"/>
-<br/>
-<img src="https://img.shields.io/static/v1?label=&message=Oracle+AI+Foundations+Associate&color=C9974B&style=for-the-badge"/>
-<img src="https://img.shields.io/static/v1?label=&message=Business+Analytics+%E2%80%93+Skill+India+NSDC&color=14252E&style=for-the-badge"/>
-
-</div>
+- **AWS Certified CloudOps Engineer – Associate**
+- **IBM Enterprise Data Science**
+- **Oracle AI Foundations Associate**
+- **Business Analytics** — Skill India (NSDC)
 
 <br/>
 
-## Currently
+## What Drives Me
 
-<div align="center">
+I'm drawn to problems where an AI system's decision needs to be trusted, not just accurate — that's what pulls me toward explainability and responsible AI. I like working across the full stack of a problem: framing it, training the model, and then building the engineering around it that makes it usable in the real world. Longer-term, I'm working toward a PhD, and eventually building something of my own in deep-tech.
 
-|  |  |
-|---|---|
-| 🚀 | Building a **Healthcare Appointment & Records Microservices Platform** (FastAPI, PostgreSQL, Redis, JWT) to round out REST API and systems-design skills |
-| 🎯 | Preparing for the **Jan–Apr 2027 internship cycle**, targeting AI/ML and healthcare AI roles |
-| 🏆 | Former **Events Head, CBIT Student Technical Association** — directed a national-scale hackathon |
-| 📚 | Long-term: pursuing a **PhD** and building toward a **deep-tech startup** |
-
-</div>
+<br/>
 
 <div align="center">
 <img src="footer.png" width="100%"/>
