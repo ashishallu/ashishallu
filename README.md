@@ -1,15 +1,15 @@
 <div align="center">
 
-<!-- Hero banner — live-rendered SVG, no local asset required, can never go "missing" -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1CA9A5,50:6FD1C6,100:F2E3C6&height=210&section=header&text=Ashish%20Allu&fontSize=52&fontColor=14252E&fontFamily=Poppins&animation=fadeIn&desc=AI%20%2F%20ML%20Engineer%20%7C%20Healthcare%20AI%20%7C%20Deep-Tech&descSize=20&descAlignY=68&descFontFamily=Poppins" width="100%"/>
+<!-- Hero banner — your uploaded ocean artwork, with name + tagline composited in. Commit this file to assets/banner.jpg -->
+<img src="assets/banner.jpg" width="100%"/>
 
-<br/>
+<br/><br/>
 
 <a href="https://github.com/ashishallu">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=0E7C7B&center=true&vCenter=true&width=650&lines=Final-Year+AI+%26+Data+Science+Engineer;Building+Explainable+%26+Responsible+AI;Healthcare+AI+%7C+Fraud+Detection+%7C+Deep-Tech;Open+to+AI%2FML+Internships+2026" alt="Typing SVG" />
 </a>
 
-<sub>↑ cycles through 4 phrases live on GitHub — a screenshot only catches one mid-type frame</sub>
+<sub>↑ cycles through 4 phrases live on GitHub — a screenshot only ever catches one mid-type frame</sub>
 
 <br/><br/>
 
@@ -43,13 +43,13 @@ I engineer end-to-end AI systems that don't just predict — they explain themse
 
 **Languages & Core**
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=python,postgresql&theme=light"/>
+<img src="https://skillicons.dev/icons?i=python,postgresql&theme=dark"/>
 
 <br/><br/>
 
 **Machine Learning & Explainability**
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=pytorch&theme=light"/>
+<img src="https://skillicons.dev/icons?i=pytorch&theme=dark"/>
 <img src="https://img.shields.io/static/v1?label=&message=XGBoost&color=1CA9A5&style=flat-square"/>
 <img src="https://img.shields.io/static/v1?label=&message=SHAP&color=1CA9A5&style=flat-square"/>
 <img src="https://img.shields.io/static/v1?label=&message=LIME&color=1CA9A5&style=flat-square"/>
@@ -60,7 +60,7 @@ I engineer end-to-end AI systems that don't just predict — they explain themse
 
 **Data Engineering & Streaming**
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=kafka&theme=light"/>
+<img src="https://skillicons.dev/icons?i=kafka&theme=dark"/>
 <img src="https://img.shields.io/static/v1?label=&message=PySpark&color=0E7C7B&style=flat-square"/>
 <img src="https://img.shields.io/static/v1?label=&message=ChromaDB&color=C9974B&style=flat-square"/>
 <img src="https://img.shields.io/static/v1?label=&message=Ollama&color=C9974B&style=flat-square"/>
@@ -69,7 +69,7 @@ I engineer end-to-end AI systems that don't just predict — they explain themse
 
 **Apps & Infrastructure**
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=docker,git,github&theme=light"/>
+<img src="https://skillicons.dev/icons?i=docker,git,github&theme=dark"/>
 <img src="https://img.shields.io/static/v1?label=&message=Streamlit&color=1CA9A5&style=flat-square&logo=streamlit&logoColor=white"/>
 
 </div>
@@ -117,57 +117,12 @@ Predicts patient dropout risk in clinical trials using CDASH-style synthetic dat
 
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📊 D2C Analytics Dashboard (FMCG BI)
-Five-module business intelligence dashboard for consumer analytics, deployed live for interactive exploration.
-<br/><br/>
-`Streamlit` `Plotly` `pandas`
-<br/>
-🔗 [Live Demo](https://d2c-analytics-dashboard.streamlit.app/)
-
-</td>
-<td width="50%" valign="top">
-
-### 🛍️ Customer Retention & Loyalty System
-RFM-segmented churn prediction system with SMOTE-balanced training and SHAP-driven retention insights on retail transaction data.
-<br/><br/>
-`XGBoost` `SMOTE` `RFM Segmentation` `SHAP`
-
-</td>
-</tr>
 </table>
 
 <div align="center">
 <a href="https://github.com/ashishallu?tab=repositories">
 <img src="https://img.shields.io/badge/View_All_Repositories-1CA9A5?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F2E3C6,50:6FD1C6,100:1CA9A5&height=3&width=100%"/>
-
-<br/>
-
-## GitHub Stats
-
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ashishallu&show_icons=true&hide_border=true&bg_color=FDF6E9&title_color=0E7C7B&icon_color=C9974B&text_color=14252E"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishallu&layout=compact&hide_border=true&bg_color=FDF6E9&title_color=0E7C7B&text_color=14252E"/>
-</div>
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ashishallu&hide_border=true&background=FDF6E9&ring=1CA9A5&fire=C9974B&currStreakLabel=0E7C7B&sideLabels=14252E&currStreakNum=14252E&sideNums=14252E&dates=8C7A5B"/>
-</div>
-
-<br/>
-
-<div align="center">
-
-### Trophy Shelf
-
-<img src="https://github-profile-trophy.vercel.app/?username=ashishallu&theme=gruvbox&no-frame=true&margin-w=10&row=1&column=6"/>
-
 </div>
 
 <br/>
