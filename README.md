@@ -1,24 +1,28 @@
 <div align="center">
 
-<!-- Animated header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E7C7B,100:1B2735&height=200&section=header&text=Allu%20Venkata%20Ashish&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20Explainable%20AI%20for%20Healthcare%20%26%20Finance&descAlignY=58&descSize=18" width="100%"/>
+<!-- Animated gradient header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,50:0E7C7B,100:00C9A7&height=230&section=header&text=Allu%20Venkata%20Ashish&fontSize=44&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Explainable%20AI%20%7C%20Healthcare%20%26%20FinTech%20%7C%20Deep-Tech&descAlignY=54&descSize=18" width="100%"/>
 
-<br/>
+<!-- Profile views -->
+<img src="https://komarev.com/ghpvc/?username=ashishallu&style=for-the-badge&color=8E2DE2&label=PROFILE+VIEWS"/>
 
-<!-- Typing effect tagline -->
+<br/><br/>
+
 <a href="https://github.com/ashishallu">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=0E7C7B&center=true&vCenter=true&width=600&lines=Final-Year+AI+%26+Data+Science+Engineer;Building+Explainable+%26+Responsible+AI;Healthcare+AI+%7C+Fraud+Detection+%7C+Deep-Tech;Open+to+AI%2FML+Internships+2026" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00C9A7&center=true&vCenter=true&width=650&lines=Final-Year+AI+%26+Data+Science+Engineer;Building+Explainable+%26+Responsible+AI;Healthcare+AI+%7C+Fraud+Detection+%7C+Deep-Tech;Open+to+AI%2FML+Internships+2026" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-<!-- Socials -->
-<a href="https://v0-portfolio-ashishallu.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0E7C7B?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://github.com/ashishallu" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="mailto:youremail@example.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://linkedin.com/in/your-linkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<!-- Socials — clean color blocks, no mismatched logos -->
+<a href="https://v0-portfolio-ashishallu.vercel.app/" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=PORTFOLIO&color=8E2DE2&style=for-the-badge"/></a>
+<a href="https://github.com/ashishallu" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=GITHUB&color=181717&style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/venkata-ashish-allu/" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=LINKEDIN&color=0A66C2&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:alluashish04@gmail.com" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=EMAIL&color=00C9A7&style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:00C9A7&height=3&width=100%"/>
 
 <br/>
 
@@ -38,32 +42,22 @@ I engineer end-to-end AI systems that don't just predict — they explain themse
 
 <div align="center">
 
-**Languages & Core**
-<br/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=python,pytorch,postgres,docker,kafka,streamlit,git,github&theme=dark" />
 
-**ML / AI**
-<br/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/XGBoost-006ACC?style=flat-square"/>
-<img src="https://img.shields.io/badge/SHAP-8A2BE2?style=flat-square"/>
-<img src="https://img.shields.io/badge/BioBERT-1C3D5A?style=flat-square"/>
-<img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white"/>
+<br/><br/>
 
-**Data & Streaming**
-<br/>
-<img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/>
-<img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/>
-<img src="https://img.shields.io/badge/ChromaDB-4B0082?style=flat-square"/>
-
-**App & Infra**
-<br/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/static/v1?label=&message=XGBoost&color=1B2735&style=flat-square"/>
+<img src="https://img.shields.io/static/v1?label=&message=SHAP&color=8E2DE2&style=flat-square"/>
+<img src="https://img.shields.io/static/v1?label=&message=LIME&color=8E2DE2&style=flat-square"/>
+<img src="https://img.shields.io/static/v1?label=&message=BioBERT&color=0E7C7B&style=flat-square"/>
+<img src="https://img.shields.io/static/v1?label=&message=Ollama&color=1B2735&style=flat-square"/>
+<img src="https://img.shields.io/static/v1?label=&message=ChromaDB&color=0E7C7B&style=flat-square"/>
+<img src="https://img.shields.io/static/v1?label=&message=PySpark&color=00C9A7&style=flat-square"/>
+<img src="https://img.shields.io/static/v1?label=&message=Grad-CAM&color=00C9A7&style=flat-square"/>
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:00C9A7&height=3&width=100%"/>
 
 <br/>
 
@@ -134,21 +128,33 @@ RFM-segmented churn prediction system with SMOTE-balanced training and SHAP-driv
 </a>
 </div>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:00C9A7&height=3&width=100%"/>
+
 <br/>
 
 ## GitHub Stats
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ashishallu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0E7C7B&icon_color=0E7C7B"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishallu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0E7C7B"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ashishallu&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00C9A7&icon_color=8E2DE2"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishallu&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00C9A7"/>
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ashishallu&theme=tokyonight&hide_border=true&background=0D1117&ring=0E7C7B&fire=0E7C7B"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ashishallu&theme=radical&hide_border=true&background=0D1117&ring=8E2DE2&fire=00C9A7"/>
 </div>
 
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B2735,100:0E7C7B&height=100&section=footer"/>
+
+### Trophy Shelf
+
+<img src="https://github-profile-trophy.vercel.app/?username=ashishallu&theme=radical&no-frame=true&margin-w=10&row=1&column=6"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,50:0E7C7B,100:8E2DE2&height=120&section=footer"/>
 </div>
