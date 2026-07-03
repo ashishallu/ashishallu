@@ -36,25 +36,19 @@ I'm an **AI/ML Engineer, Data Scientist, and Software Engineer** finishing my B.
 
 **Languages & Core**
 <br/>
-<img src="https://img.shields.io/static/v1?label=&message=Python&color=1B222C&style=flat"/> <img src="https://img.shields.io/static/v1?label=&message=SQL&color=1B222C&style=flat"/> <img src="https://img.shields.io/static/v1?label=&message=PostgreSQL&color=1B222C&style=flat"/> <img src="https://img.shields.io/static/v1?label=&message=FastAPI&color=1B222C&style=flat"/>
-
-<br/><br/>
+<img src="https://img.shields.io/static/v1?label=&message=Python&color=1CA9A5&style=flat"/> <img src="https://img.shields.io/static/v1?label=&message=SQL&color=1CA9A5&style=flat"/> <img src="https://img.shields.io/static/v1?label=&message=PostgreSQL&color=1CA9A5&style=flat"/> <img src="https://img.shields.io/static/v1?label=&message=FastAPI&color=1CA9A5&style=flat"/>
 
 **Machine Learning & Explainability**
 <br/>
-<img src="https://img.shields.io/static/v1?label=&message=PyTorch&color=1B222C&style=flat"/> <img src="https://img.shields.io/static/v1?label=&message=scikit-learn&color=1B222C&style=flat"/> <img src="https://img.shields.io/static/v1?label=&message=XGBoost&color=1B222C&style=flat"/> <img src="https://img.shields.io/static/v1?label=&message=SHAP&color=1B222C&style=flat"/> <img src="https://img.shields.io/static/v1?label=&message=LIME&color=1B222C&style=flat"/> <img src="https://img.shields.io/static/v1?label=&message=BioBERT&color=1B222C&style=flat"/> <img src="https://img.shields.io/static/v1?label=&message=Grad--CAM&color=1B222C&style=flat"/>
-
-<br/><br/>
+<img src="https://img.shields.io/static/v1?label=&message=PyTorch&color=0E7C7B&style=flat"/> <img src="https://img.shields.io/static/v1?label=&message=scikit-learn&color=0E7C7B&style=flat"/> <img src="https://img.shields.io/static/v1?label=&message=XGBoost&color=0E7C7B&style=flat"/> <img src="https://img.shields.io/static/v1?label=&message=SHAP&color=0E7C7B&style=flat"/> <img src="https://img.shields.io/static/v1?label=&message=LIME&color=0E7C7B&style=flat"/> <img src="https://img.shields.io/static/v1?label=&message=BioBERT&color=0E7C7B&style=flat"/> <img src="https://img.shields.io/static/v1?label=&message=Grad--CAM&color=0E7C7B&style=flat"/>
 
 **Data, Retrieval & Streaming**
 <br/>
-<img src="https://img.shields.io/static/v1?label=&message=Kafka&color=1B222C&style=flat"/> <img src="https://img.shields.io/static/v1?label=&message=PySpark&color=1B222C&style=flat"/> <img src="https://img.shields.io/static/v1?label=&message=ChromaDB&color=1B222C&style=flat"/> <img src="https://img.shields.io/static/v1?label=&message=Redis&color=1B222C&style=flat"/> <img src="https://img.shields.io/static/v1?label=&message=Ollama&color=1B222C&style=flat"/>
-
-<br/><br/>
+<img src="https://img.shields.io/static/v1?label=&message=Kafka&color=C9974B&style=flat"/> <img src="https://img.shields.io/static/v1?label=&message=PySpark&color=C9974B&style=flat"/> <img src="https://img.shields.io/static/v1?label=&message=ChromaDB&color=C9974B&style=flat"/> <img src="https://img.shields.io/static/v1?label=&message=Redis&color=C9974B&style=flat"/> <img src="https://img.shields.io/static/v1?label=&message=Ollama&color=C9974B&style=flat"/>
 
 **Apps & Infrastructure**
 <br/>
-<img src="https://img.shields.io/static/v1?label=&message=Docker&color=1B222C&style=flat"/> <img src="https://img.shields.io/static/v1?label=&message=Git&color=1B222C&style=flat"/> <img src="https://img.shields.io/static/v1?label=&message=GitHub+Actions&color=1B222C&style=flat"/> <img src="https://img.shields.io/static/v1?label=&message=Streamlit&color=1B222C&style=flat"/> <img src="https://img.shields.io/static/v1?label=&message=JWT+Auth&color=1B222C&style=flat"/>
+<img src="https://img.shields.io/static/v1?label=&message=Docker&color=3B5166&style=flat"/> <img src="https://img.shields.io/static/v1?label=&message=Git&color=3B5166&style=flat"/> <img src="https://img.shields.io/static/v1?label=&message=GitHub+Actions&color=3B5166&style=flat"/> <img src="https://img.shields.io/static/v1?label=&message=Streamlit&color=3B5166&style=flat"/> <img src="https://img.shields.io/static/v1?label=&message=JWT+Auth&color=3B5166&style=flat"/>
 
 </div>
 
