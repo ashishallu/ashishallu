@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Hero banner — your uploaded ocean artwork, with name + tagline composited in, wave-cut at the bottom edge. Commit this file to assets/banner.png -->
-<img src="assets/banner.png" width="100%"/>
+<!-- Hero banner — your uploaded ocean artwork, with name + tagline composited in, wave-cut at the bottom edge. Commit this file to /banner.png -->
+<img src="banner.png" width="100%"/>
 
 <br/><br/>
 
@@ -21,7 +21,7 @@
 
 </div>
 
-<img src="assets/divider-ocean-1.jpg" width="100%"/>
+<img src="divider-ocean-1.jpg" width="100%"/>
 
 <br/>
 
@@ -43,41 +43,41 @@ I engineer end-to-end AI systems that don't just predict — they explain themse
 
 **Languages & Core**
 <br/><br/>
-<img src="assets/icons/python.png" width="56" height="56"/>&nbsp;&nbsp;
-<img src="assets/icons/postgresql.png" width="56" height="56"/>
+<img src="python.png" width="56" height="56"/>&nbsp;&nbsp;
+<img src="postgresql.png" width="56" height="56"/>
 
 <br/><br/>
 
 **Machine Learning & Explainability**
 <br/><br/>
-<img src="assets/icons/pytorch.png" width="56" height="56"/>&nbsp;&nbsp;
-<img src="assets/icons/xgboost.png" width="56" height="56"/>&nbsp;&nbsp;
-<img src="assets/icons/shap.png" width="56" height="56"/>&nbsp;&nbsp;
-<img src="assets/icons/lime.png" width="56" height="56"/>&nbsp;&nbsp;
-<img src="assets/icons/biobert.png" width="56" height="56"/>&nbsp;&nbsp;
-<img src="assets/icons/gradcam.png" width="56" height="56"/>
+<img src="pytorch.png" width="56" height="56"/>&nbsp;&nbsp;
+<img src="xgboost.png" width="56" height="56"/>&nbsp;&nbsp;
+<img src="shap.png" width="56" height="56"/>&nbsp;&nbsp;
+<img src="lime.png" width="56" height="56"/>&nbsp;&nbsp;
+<img src="biobert.png" width="56" height="56"/>&nbsp;&nbsp;
+<img src="gradcam.png" width="56" height="56"/>
 
 <br/><br/>
 
 **Data Engineering & Streaming**
 <br/><br/>
-<img src="assets/icons/apachekafka.png" width="56" height="56"/>&nbsp;&nbsp;
-<img src="assets/icons/apachespark.png" width="56" height="56"/>&nbsp;&nbsp;
-<img src="assets/icons/chromadb.png" width="56" height="56"/>&nbsp;&nbsp;
-<img src="assets/icons/ollama.png" width="56" height="56"/>
+<img src="apachekafka.png" width="56" height="56"/>&nbsp;&nbsp;
+<img src="apachespark.png" width="56" height="56"/>&nbsp;&nbsp;
+<img src="chromadb.png" width="56" height="56"/>&nbsp;&nbsp;
+<img src="ollama.png" width="56" height="56"/>
 
 <br/><br/>
 
 **Apps & Infrastructure**
 <br/><br/>
-<img src="assets/icons/docker.png" width="56" height="56"/>&nbsp;&nbsp;
-<img src="assets/icons/git.png" width="56" height="56"/>&nbsp;&nbsp;
-<img src="assets/icons/github.png" width="56" height="56"/>&nbsp;&nbsp;
-<img src="assets/icons/streamlit.png" width="56" height="56"/>
+<img src="docker.png" width="56" height="56"/>&nbsp;&nbsp;
+<img src="git.png" width="56" height="56"/>&nbsp;&nbsp;
+<img src="github.png" width="56" height="56"/>&nbsp;&nbsp;
+<img src="streamlit.png" width="56" height="56"/>
 
 </div>
 
-<img src="assets/divider-ocean-2.jpg" width="100%"/>
+<img src="divider-ocean-2.jpg" width="100%"/>
 
 <br/>
 
@@ -130,7 +130,7 @@ Predicts patient dropout risk in clinical trials using CDASH-style synthetic dat
 
 <br/>
 
-<img src="assets/divider-ocean-3.jpg" width="100%"/>
+<img src="divider-ocean-3.jpg" width="100%"/>
 
 <br/>
 
@@ -162,5 +162,5 @@ Predicts patient dropout risk in clinical trials using CDASH-style synthetic dat
 </div>
 
 <div align="center">
-<img src="assets/footer.png" width="100%"/>
+<img src="footer.png" width="100%"/>
 </div>
