@@ -1,6 +1,6 @@
+<!--
 <div align="center">
 
-<!-- Hero banner — your uploaded ocean artwork, with name + tagline composited in. Commit this file to assets/banner.jpg -->
 <img src="assets/banner.jpg" width="100%"/>
 
 <br/><br/>
@@ -13,7 +13,6 @@
 
 <br/><br/>
 
-<!-- Socials — tropical daylight palette -->
 <a href="https://v0-portfolio-ashishallu.vercel.app/" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=PORTFOLIO&color=1CA9A5&style=for-the-badge"/></a>
 <a href="https://github.com/ashishallu" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=GITHUB&color=14252E&style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/venkata-ashish-allu/" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=LINKEDIN&color=0A66C2&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -130,3 +129,4 @@ Predicts patient dropout risk in clinical trials using CDASH-style synthetic dat
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1CA9A5,50:6FD1C6,100:F2E3C6&height=120&section=footer"/>
 </div>
+-->
