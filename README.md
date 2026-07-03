@@ -34,58 +34,44 @@ I'm an **AI/ML Engineer, Data Scientist, and Software Engineer** finishing my B.
 
 <div align="center">
 
-**Languages & Core** &nbsp; <img src="python.png" width="42" height="42"/> <img src="postgresql.png" width="42" height="42"/>
+**Languages & Core**
+<br/>
+<img src="https://img.shields.io/static/v1?label=&message=Python&color=1B222C&style=flat"/> <img src="https://img.shields.io/static/v1?label=&message=SQL&color=1B222C&style=flat"/> <img src="https://img.shields.io/static/v1?label=&message=PostgreSQL&color=1B222C&style=flat"/> <img src="https://img.shields.io/static/v1?label=&message=FastAPI&color=1B222C&style=flat"/>
 
-**ML & Explainability** &nbsp; <img src="pytorch.png" width="42" height="42"/> <img src="xgboost.png" width="42" height="42"/> <img src="shap.png" width="42" height="42"/> <img src="lime.png" width="42" height="42"/> <img src="biobert.png" width="42" height="42"/> <img src="gradcam.png" width="42" height="42"/>
+<br/><br/>
 
-**Data & Streaming** &nbsp; <img src="apachekafka.png" width="42" height="42"/> <img src="apachespark.png" width="42" height="42"/> <img src="chromadb.png" width="42" height="42"/> <img src="ollama.png" width="42" height="42"/>
+**Machine Learning & Explainability**
+<br/>
+<img src="https://img.shields.io/static/v1?label=&message=PyTorch&color=1B222C&style=flat"/> <img src="https://img.shields.io/static/v1?label=&message=scikit-learn&color=1B222C&style=flat"/> <img src="https://img.shields.io/static/v1?label=&message=XGBoost&color=1B222C&style=flat"/> <img src="https://img.shields.io/static/v1?label=&message=SHAP&color=1B222C&style=flat"/> <img src="https://img.shields.io/static/v1?label=&message=LIME&color=1B222C&style=flat"/> <img src="https://img.shields.io/static/v1?label=&message=BioBERT&color=1B222C&style=flat"/> <img src="https://img.shields.io/static/v1?label=&message=Grad--CAM&color=1B222C&style=flat"/>
 
-**Apps & Infra** &nbsp; <img src="docker.png" width="42" height="42"/> <img src="git.png" width="42" height="42"/> <img src="github.png" width="42" height="42"/> <img src="streamlit.png" width="42" height="42"/>
+<br/><br/>
+
+**Data, Retrieval & Streaming**
+<br/>
+<img src="https://img.shields.io/static/v1?label=&message=Kafka&color=1B222C&style=flat"/> <img src="https://img.shields.io/static/v1?label=&message=PySpark&color=1B222C&style=flat"/> <img src="https://img.shields.io/static/v1?label=&message=ChromaDB&color=1B222C&style=flat"/> <img src="https://img.shields.io/static/v1?label=&message=Redis&color=1B222C&style=flat"/> <img src="https://img.shields.io/static/v1?label=&message=Ollama&color=1B222C&style=flat"/>
+
+<br/><br/>
+
+**Apps & Infrastructure**
+<br/>
+<img src="https://img.shields.io/static/v1?label=&message=Docker&color=1B222C&style=flat"/> <img src="https://img.shields.io/static/v1?label=&message=Git&color=1B222C&style=flat"/> <img src="https://img.shields.io/static/v1?label=&message=GitHub+Actions&color=1B222C&style=flat"/> <img src="https://img.shields.io/static/v1?label=&message=Streamlit&color=1B222C&style=flat"/> <img src="https://img.shields.io/static/v1?label=&message=JWT+Auth&color=1B222C&style=flat"/>
 
 </div>
 
 <img src="divider-ocean-2.jpg" width="100%"/>
 
-## Featured Projects
+## Highlights
 
-<table>
-<tr>
-<td width="50%" valign="top">
+- 🕸️ Engineered a real-time fraud detection pipeline over streaming transaction graphs — Kafka + PySpark + heterogeneous GNNs, fully explained with SHAP
+- 📑 Built a hybrid-retrieval RAG assistant (BM25 + dense embeddings + cross-encoder reranking) for financial compliance Q&A
+- 🩺 Shipped a multimodal diagnostic assistant combining ResNet-50 + Grad-CAM visual reasoning with a BioBERT-powered RAG layer
+- 🧪 Found and fixed a subtle data-leakage bug in a clinical trial model, then tuned it for real-world reliability
+- 🏆 Directed a national-scale hackathon as Events Head, CBIT Student Technical Association
+- 🌍 Every project shipped fully open-source, zero paid dependencies — data pipeline to deployed demo
 
-### 🩺 MediVision AI
-Multimodal chest X-ray diagnostic assistant combining ResNet-50 + Grad-CAM visual reasoning with a BioBERT-powered RAG layer for clinical context.
-<br/><br/>
-`ResNet-50` `Grad-CAM` `BioBERT` `ChromaDB` `Ollama Mistral-7B` `Docker`
-
-</td>
-<td width="50%" valign="top">
-
-### 🌊 Real-Time Fraud Detection Pipeline
-Streaming fraud detection using heterogeneous graph neural networks over transaction graphs, with SHAP explainability layered on top.
-<br/><br/>
-`Kafka` `PySpark` `PyTorch Geometric` `HeteroGraphSAGE` `SHAP` `Streamlit`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📑 RAG Financial Policy & Compliance Assistant
-Hybrid retrieval assistant combining BM25 and dense embeddings with cross-encoder reranking to answer compliance queries against policy documents.
-<br/><br/>
-`ChromaDB` `BAAI Embeddings` `CrossEncoder` `OpenRouter (Qwen)` `Streamlit`
-
-</td>
-<td width="50%" valign="top">
-
-### 🧪 Clinical Trial Dropout Prediction
-Predicts patient dropout risk in clinical trials using CDASH-style synthetic data, with careful data-leakage auditing and dual explainability.
-<br/><br/>
-`LightGBM` `Logistic Regression` `SHAP` `LIME`
-
-</td>
-</tr>
-</table>
+<div align="center">
+<sub><a href="https://github.com/ashishallu?tab=repositories">See the code on GitHub →</a></sub>
+</div>
 
 <img src="divider-ocean-3.jpg" width="100%"/>
 
@@ -100,7 +86,7 @@ Predicts patient dropout risk in clinical trials using CDASH-style synthetic dat
 
 ## What Drives Me
 
-I'm drawn to problems where an AI system's decision needs to be trusted, not just accurate — that's what pulls me toward explainability and responsible AI. I like working across the full stack of a problem: framing it, training the model, and then building the engineering around it that makes it usable in the real world. Longer-term, I'm working toward a PhD, and eventually building something of my own in deep-tech.
+I'm the kind of engineer who reads the SHAP values before celebrating the accuracy score — I want to know *why* a model decided what it decided, not just that it got there. That curiosity is what pulls me toward explainable and responsible AI, and it's why I like sitting close to the whole problem: framing it, training the model, then building the engineering around it that makes it trustworthy enough to actually use. I'm energized by systems where the stakes are real — fraud, healthcare, compliance — the kind of domains where getting it right actually matters. Long-term, that same curiosity is pointed at a PhD, and eventually, building something of my own in deep-tech.
 
 <br/>
 
