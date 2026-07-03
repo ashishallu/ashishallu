@@ -43,34 +43,37 @@ I engineer end-to-end AI systems that don't just predict — they explain themse
 
 **Languages & Core**
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=python,postgresql&theme=dark"/>
+<img src="assets/icons/python.png" width="56" height="56"/>&nbsp;&nbsp;
+<img src="assets/icons/postgresql.png" width="56" height="56"/>
 
 <br/><br/>
 
 **Machine Learning & Explainability**
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=pytorch&theme=dark"/>
-<img src="https://img.shields.io/static/v1?label=&message=XGBoost&color=1CA9A5&style=flat-square"/>
-<img src="https://img.shields.io/static/v1?label=&message=SHAP&color=1CA9A5&style=flat-square"/>
-<img src="https://img.shields.io/static/v1?label=&message=LIME&color=1CA9A5&style=flat-square"/>
-<img src="https://img.shields.io/static/v1?label=&message=BioBERT&color=0E7C7B&style=flat-square"/>
-<img src="https://img.shields.io/static/v1?label=&message=Grad--CAM&color=0E7C7B&style=flat-square"/>
+<img src="assets/icons/pytorch.png" width="56" height="56"/>&nbsp;&nbsp;
+<img src="assets/icons/xgboost.png" width="56" height="56"/>&nbsp;&nbsp;
+<img src="assets/icons/shap.png" width="56" height="56"/>&nbsp;&nbsp;
+<img src="assets/icons/lime.png" width="56" height="56"/>&nbsp;&nbsp;
+<img src="assets/icons/biobert.png" width="56" height="56"/>&nbsp;&nbsp;
+<img src="assets/icons/gradcam.png" width="56" height="56"/>
 
 <br/><br/>
 
 **Data Engineering & Streaming**
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=kafka&theme=dark"/>
-<img src="https://img.shields.io/static/v1?label=&message=PySpark&color=0E7C7B&style=flat-square"/>
-<img src="https://img.shields.io/static/v1?label=&message=ChromaDB&color=C9974B&style=flat-square"/>
-<img src="https://img.shields.io/static/v1?label=&message=Ollama&color=C9974B&style=flat-square"/>
+<img src="assets/icons/apachekafka.png" width="56" height="56"/>&nbsp;&nbsp;
+<img src="assets/icons/apachespark.png" width="56" height="56"/>&nbsp;&nbsp;
+<img src="assets/icons/chromadb.png" width="56" height="56"/>&nbsp;&nbsp;
+<img src="assets/icons/ollama.png" width="56" height="56"/>
 
 <br/><br/>
 
 **Apps & Infrastructure**
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=docker,git,github&theme=dark"/>
-<img src="https://img.shields.io/static/v1?label=&message=Streamlit&color=1CA9A5&style=flat-square&logo=streamlit&logoColor=white"/>
+<img src="assets/icons/docker.png" width="56" height="56"/>&nbsp;&nbsp;
+<img src="assets/icons/git.png" width="56" height="56"/>&nbsp;&nbsp;
+<img src="assets/icons/github.png" width="56" height="56"/>&nbsp;&nbsp;
+<img src="assets/icons/streamlit.png" width="56" height="56"/>
 
 </div>
 
@@ -126,6 +129,37 @@ Predicts patient dropout risk in clinical trials using CDASH-style synthetic dat
 </div>
 
 <br/>
+
+<img src="assets/divider-ocean-3.jpg" width="100%"/>
+
+<br/>
+
+## Certifications
+
+<div align="center">
+
+<img src="https://img.shields.io/static/v1?label=&message=AWS+Certified+CloudOps+Engineer+Associate&color=1CA9A5&style=for-the-badge"/>
+<img src="https://img.shields.io/static/v1?label=&message=IBM+Enterprise+Data+Science&color=0E7C7B&style=for-the-badge"/>
+<br/>
+<img src="https://img.shields.io/static/v1?label=&message=Oracle+AI+Foundations+Associate&color=C9974B&style=for-the-badge"/>
+<img src="https://img.shields.io/static/v1?label=&message=Business+Analytics+%E2%80%93+Skill+India+NSDC&color=14252E&style=for-the-badge"/>
+
+</div>
+
+<br/>
+
+## Currently
+
+<div align="center">
+
+|  |  |
+|---|---|
+| 🚀 | Building a **Healthcare Appointment & Records Microservices Platform** (FastAPI, PostgreSQL, Redis, JWT) to round out REST API and systems-design skills |
+| 🎯 | Preparing for the **Jan–Apr 2027 internship cycle**, targeting AI/ML and healthcare AI roles |
+| 🏆 | Former **Events Head, CBIT Student Technical Association** — directed a national-scale hackathon |
+| 📚 | Long-term: pursuing a **PhD** and building toward a **deep-tech startup** |
+
+</div>
 
 <div align="center">
 <img src="assets/footer.png" width="100%"/>
